@@ -25,7 +25,7 @@ export default function Page() {
           </Link>
         </div>
         <div className="flex items-center justify-center p-6 md:w-3/5 md:px-28 md:py-12">
-          {/* Add Hero Images Here */}
+           {/* Add Hero Images Here */}
         </div>
       </div>
     </main>
